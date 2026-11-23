@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants?style=flat-square&color=blue" alt="GitHub issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Open-Source-Assistants/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -72,64 +72,64 @@ The market displays a distinct structural duality:
 
 *Leading open-source conversational AI interfaces, self-hosted ChatGPT alternatives, desktop clients, and autonomous workspace applications, sorted in descending order by GitHub stargazers count.*
 
-1. **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+1. **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
    Leading open-source LLM application development and conversational agent platform combining a visual workflow canvas, RAG pipeline, prompt IDE, and embeddable chat UIs.
 
-2. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+2. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
    User-friendly, feature-packed self-hosted AI interface supporting Ollama, OpenAI-compatible APIs, local RAG document chat, web search, voice/video interaction, Python execution pipelines, and granular RBAC.
 
-3. **[Browser Use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+3. **[Browser Use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
    Open-source Python library and autonomous conversational browser agent that makes websites accessible and operable for AI assistants and LLMs.
 
-4. **[LobeChat](https://github.com/lobehub/lobe-chat)** [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)  
+4. **[LobeChat](https://github.com/lobehub/lobe-chat)** [![GitHub_Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)  
    Modern, design-centric open-source AI chat framework featuring Chain-of-Thought visualization, Artifacts, MCP plugin marketplace, text-to-speech, and multi-modal model support.
 
-5. **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
+5. **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
    All-in-one open-source desktop and Docker AI assistant turning documents, websites, and codebases into private RAG workspaces with no-code AI agents and multi-user support.
 
-6. **[LocalAI](https://github.com/mudler/LocalAI)** [![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
+6. **[LocalAI](https://github.com/mudler/LocalAI)** [![GitHub_Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
    Self-hosted, drop-in OpenAI-compatible alternative engine to run LLMs, vision, voice, audio generation, and image models locally on consumer hardware without GPU mandates.
 
-7. **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** [![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social&color=white)](https://github.com/oobabooga/text-generation-webui/stargazers)  
+7. **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social&color=white)](https://github.com/oobabooga/text-generation-webui/stargazers)  
    Classic, highly extensible open-source Gradio web interface for running local LLMs with `llama.cpp`, Transformers, ExLlamaV2, LoRA adapters, and fine-grained sampling controls.
 
-8. **[LibreChat](https://github.com/danny-avila/LibreChat)** [![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
+8. **[LibreChat](https://github.com/danny-avila/LibreChat)** [![GitHub_Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
    Enhanced open-source ChatGPT clone unifying OpenAI, Anthropic, Google Gemini, Ollama, OpenRouter, and Azure with Code Interpreter, interactive Artifacts, MCP support, presets, and secure multi-user auth.
 
-9. **[Jan.ai](https://github.com/menloresearch/jan)** [![GitHub stars](https://img.shields.io/github/stars/menloresearch/jan?style=social&color=white)](https://github.com/menloresearch/jan/stargazers)  
+9. **[Jan.ai](https://github.com/menloresearch/jan)** [![GitHub_Stars](https://img.shields.io/github/stars/menloresearch/jan?style=social&color=white)](https://github.com/menloresearch/jan/stargazers)  
    Open-source, 100% offline-first desktop AI assistant powered by `llama.cpp` and Cortex, featuring local model downloads, hardware acceleration, and an OpenAI-compatible local server.
 
-10. **[Chatbox](https://github.com/Bin-Huang/chatbox)** [![GitHub stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social&color=white)](https://github.com/Bin-Huang/chatbox/stargazers)  
+10. **[Chatbox](https://github.com/Bin-Huang/chatbox)** [![GitHub_Stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social&color=white)](https://github.com/Bin-Huang/chatbox/stargazers)  
     Clean, lightweight open-source cross-platform desktop & mobile client (Windows, macOS, Linux, iOS, Android) for local Ollama runtimes and cloud API providers.
 
-11. **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** [![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers)  
+11. **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** [![GitHub_Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers)  
     The open-source React framework and frontend stack for AI agents and Generative UI, enabling developers to embed custom copilots and conversational popups into existing web applications.
 
-12. **[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** [![GitHub stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers)  
+12. **[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** [![GitHub_Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers)  
     Complete local knowledge-based RAG and conversational AI assistant application powered by LangChain and open-weight models (Llama, Qwen, ChatGLM).
 
-13. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+13. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
     Self-hostable open-source personal AI second brain accessible from web, desktop, Emacs, Obsidian, and WhatsApp with deep research agents and scheduled automations.
 
-14. **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** [![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern/stargazers)  
+14. **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** [![GitHub_Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern/stargazers)  
     Power-user LLM frontend engineered for customizable character personas, lorebooks, text-to-speech, speech-to-text, and rich interactive roleplay scenarios.
 
-15. **[Onyx](https://github.com/onyx-dot-app/onyx)** [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+15. **[Onyx](https://github.com/onyx-dot-app/onyx)** [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
     Enterprise-grade open-source AI conversational assistant and workplace search platform connecting to 40+ corporate tools (Slack, Google Drive, Confluence, GitHub) with permission-aware RAG.
 
-16. **[Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)** [![GitHub stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social&color=white)](https://github.com/mckaywrigley/chatbot-ui/stargazers)  
+16. **[Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social&color=white)](https://github.com/mckaywrigley/chatbot-ui/stargazers)  
     Clean, minimalist open-source Next.js AI chat interface supporting multiple LLM providers, custom system prompts, file attachments, and self-hosted Supabase backends.
 
-17. **[FastGPT](https://github.com/labring/FastGPT)** [![GitHub stars](https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white)](https://github.com/labring/FastGPT/stargazers)  
+17. **[FastGPT](https://github.com/labring/FastGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white)](https://github.com/labring/FastGPT/stargazers)  
     Knowledge-based conversational AI platform built on LLMs, offering automated data processing, RAG retrieval, and visual AI workflow orchestration.
 
-18. **[Devika](https://github.com/stitionai/devika)** [![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)  
+18. **[Devika](https://github.com/stitionai/devika)** [![GitHub_Stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)  
     Agentic open-source software engineering assistant capable of understanding human instructions, decomposing tasks, researching online, and writing code autonomously.
 
-19. **[Chainlit](https://github.com/Chainlit/chainlit)** [![GitHub stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social&color=white)](https://github.com/Chainlit/chainlit/stargazers)  
+19. **[Chainlit](https://github.com/Chainlit/chainlit)** [![GitHub_Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social&color=white)](https://github.com/Chainlit/chainlit/stargazers)  
     Open-source Python framework engineered to build scalable conversational AI applications, ChatGPT-like chat UIs, and agent workflows in minutes.
 
-20. **[Big-AGI](https://github.com/enricoros/big-AGI)** [![GitHub stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=social&color=white)](https://github.com/enricoros/big-AGI/stargazers)  
+20. **[Big-AGI](https://github.com/enricoros/big-AGI)** [![GitHub_Stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=social&color=white)](https://github.com/enricoros/big-AGI/stargazers)  
     Generative AI workspace for experts featuring multi-model "Beam" response comparison, voice interaction, persona workflows, and 800+ model integrations via BYOK.
 
 ---
@@ -138,10 +138,10 @@ The market displays a distinct structural duality:
 
 To deploy or build a fully self-hosted conversational assistant stack, combine these top runtime backends and developer frameworks:
 
-- **[Ollama](https://github.com/ollama/ollama)** [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) — The quintessential local runtime to download and run open-weight models (Llama, Qwen, DeepSeek, Mistral) in macOS, Windows, and Linux.
-- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) — High-throughput and memory-efficient LLM serving engine with PagedAttention for production self-hosted clusters.
-- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) — Open-source UI visual tool to build customized LLM orchestration flows and conversational agents.
-- **[Gradio](https://github.com/gradio-app/gradio)** [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers) — Rapid Python library for building and sharing interactive machine learning demos and conversational chat interfaces.
+- **[Ollama](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) — The quintessential local runtime to download and run open-weight models (Llama, Qwen, DeepSeek, Mistral) in macOS, Windows, and Linux.
+- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) — High-throughput and memory-efficient LLM serving engine with PagedAttention for production self-hosted clusters.
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) — Open-source UI visual tool to build customized LLM orchestration flows and conversational agents.
+- **[Gradio](https://github.com/gradio-app/gradio)** [![GitHub_Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers) — Rapid Python library for building and sharing interactive machine learning demos and conversational chat interfaces.
 
 ---
 
