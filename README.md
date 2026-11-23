@@ -29,74 +29,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ## Table of Contents
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global conversational AI market is estimated at approximately **$14.3B to $17.3B in 2025** (growing from ~$11.6B–$15B in 2024 at a CAGR exceeding 23%), driven by widespread enterprise adoption of generative AI agents and multi-modal assistants. The sector exhibits a bifurcated market structure: it is **highly fragmented at the application and vertical agent layer** (with thousands of indie tools, specialized CX wrappers, and niche desktop clients), but **heavily concentrated at the foundational model and platform runtime layer** where hyperscalers and frontier labs (OpenAI, Anthropic, Google, Microsoft) capture the vast majority of enterprise spend, compute capacity, and venture capital.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[LM Studio](https://lmstudio.ai)**  
-
-  Polished cross-platform local desktop AI assistant and model runner featuring one-click Hugging Face downloads, local RAG document chat, and an OpenAI-compatible server.
-
-
-
-- **[ChatGPT (OpenAI)](https://chatgpt.com)**  
-
-  Flagship cloud conversational AI assistant offering Canvas collaborative editing, Deep Research, multimodal voice/vision, custom GPTs, and persistent memory.
-
-
-
-- **[Claude (Anthropic)](https://claude.ai)**  
-
-  Cloud conversational AI assistant renowned for long-context reasoning, interactive Artifacts UI rendering, Projects knowledge bases, and MCP integrations.
-
-
-
-- **[Poe (Quora)](https://poe.com)**  
-
-  Multi-model cloud AI chat aggregator enabling users to converse with dozens of frontier and open-weight LLMs, image/video generators, and custom bots in one interface.
-
-
-
-- **[TypingMind](https://typingmind.com)**  
-
-  Commercial Bring-Your-Own-Key (BYOK) web and desktop AI chat frontend featuring prompt libraries, custom AI agents, knowledge bases, and team admin controls.
-
-
-
-- **[Dify Cloud](https://dify.ai)**  
-
-  Managed cloud edition of Dify providing hosted visual AI agent workflows, RAG knowledge pipelines, and instant conversational web-app publishing.
-
-
-
-- **[AnythingLLM Cloud](https://anythingllm.com)**  
-
-  Hosted cloud edition of AnythingLLM offering zero-maintenance private workspaces, multi-user permissions, and automated document ingestion.
-
-
-
-- **[Perplexity](https://perplexity.ai)**  
-
-  Cloud AI conversational search and research assistant combining real-time web retrieval with inline source citations and Spaces workspaces.
-
-
-
-- **[Msty](https://msty.app)**  
-
-  Sleek cross-platform desktop AI assistant supporting offline local models alongside cloud APIs, split-chat comparisons, and local RAG knowledge stacks.
+| Platform | Description | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ChatGPT](https://chatgpt.com)** (OpenAI) | Flagship cloud conversational AI assistant offering Canvas collaborative editing, Deep Research, multimodal voice/vision, custom GPTs, and memory. | ~$157B–$300B Valuation (2024/2025) / ~$3.7B+ ARR | $20/month (Plus plan) | Free forever; rolling message limits on GPT-4o (~10–16 msgs / 3–5 hrs) before falling back to GPT-4o mini, with limited file uploads, data analysis, and image generation. |
+| **[Claude](https://claude.ai)** (Anthropic) | Cloud conversational AI assistant renowned for long-context reasoning, interactive Artifacts UI rendering, Projects knowledge bases, and MCP integrations. | ~$61.5B–$183B Valuation (2025) / ~$1B+ ARR | $20/month (Pro plan) | Free forever; dynamic conversation token budget allowing approx. 15–40 messages per day on Claude Sonnet/Haiku, resetting every 24 hours. |
+| **[Perplexity](https://perplexity.ai)** | Cloud AI conversational search and research assistant combining real-time web retrieval with inline source citations and Spaces workspaces. | ~$9B–$20B Valuation (2024/2025) / ~$100M+ ARR | $20/month (Pro plan; $17/mo billed annually) | Free forever; unlimited standard web searches with citations, capped at 3 Pro Searches/day, ~1 Deep Research query/month, and up to 40MB file uploads. |
+| **[Poe](https://poe.com)** (Quora) | Multi-model cloud AI chat aggregator enabling users to converse with dozens of frontier and open-weight LLMs, image/video generators, and custom bots in one interface. | ~$500M Valuation (Quora) | $4.99/month (Lite plan; $19.99/mo Standard) | Free forever; allocated a strict rolling budget of 300 compute points every 24 hours (points do not roll over; sufficient for few basic turns, excludes heavy reasoning models). |
+| **[Dify Cloud](https://dify.ai)** (LangGenius) | Managed cloud edition of Dify providing hosted visual AI agent workflows, RAG knowledge pipelines, and instant conversational web-app publishing. | $180M Valuation (Series Pre-A, March 2026) / ~$3M+ ARR | $59/month (Professional plan) | Free forever (Sandbox plan); includes 1 team workspace, 1 member, up to 5 apps, 200 message credits for cloud models, 50 knowledge documents (50MB storage), and 5,000 API requests/month. |
+| **[LM Studio](https://lmstudio.ai)** (Element Labs) | Polished cross-platform local desktop AI assistant and model runner featuring one-click Hugging Face downloads, local RAG document chat, and an OpenAI-compatible server. | $19.3M Total Funding Raised / ~$1.8M ARR | $0 (Free for personal and internal work use) | Free forever; unrestricted local execution of open-weight models on user hardware with zero software license fees (user supplies compute and local/BYOK models). |
+| **[TypingMind](https://typingmind.com)** | Commercial Bring-Your-Own-Key (BYOK) web and desktop AI chat frontend featuring prompt libraries, custom AI agents, knowledge bases, and team admin controls. | ~$1.6M ARR ($130k–$142k/mo) / Bootstrapped | $39 one-time payment (Standard personal license; $79 Extended, $99 Premium) | Free forever (Web version); basic chatting with BYOK key, but does not save chat history, displays regular upgrade prompts every few minutes, and restricts advanced plugins/Artifacts. |
+| **[AnythingLLM Cloud](https://anythingllm.com)** (Mintplex Labs) | Hosted cloud edition of AnythingLLM offering zero-maintenance private workspaces, multi-user permissions, and automated document ingestion. | $500k Pre-Seed (YC S22) / ~$1M ARR | $50/month (Basic cloud instance; $99/mo Pro) | No free tier or trial on official Cloud SaaS (requires paid instance; however, self-hosted Docker and local desktop editions are 100% free and open-source). |
+| **[Msty](https://msty.app)** | Sleek cross-platform desktop AI assistant supporting offline local models alongside cloud APIs, split-chat comparisons, and local RAG knowledge stacks. | Bootstrapped / Privately Held (<$1M revenue) | $149/year (Aurum commercial license; $349 one-time lifetime) | Free forever; strictly restricted to non-commercial / personal use only, includes core local/BYOK chat, RAG stacks, and split-chat, but excludes commercial rights and cloud integrations (Azure/Bedrock). |
 
 
 
